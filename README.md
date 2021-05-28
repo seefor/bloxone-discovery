@@ -14,9 +14,9 @@ Good Enough Discovery Tool for Infoblox BloxOne DDI
 ## Quick start
 
 This is an initial discovery script for Infoblox BloxOne DDI
+Needs python3.6+ and NMAP install
 
 ### Installation:  
-> python3 running  
 > pip3 install bloxone  
 > pip3 install nmap  
 > git clone this repo you will need the nmap folder included here
