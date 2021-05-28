@@ -90,6 +90,6 @@ discovery/
 
 ## Copyright and license
 
-Code and documentation copyright 2020-2021 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Code and documentation copyright 2020-2021 the authors. Code released under the [MIT License](https://github.com/seefor/bloxone-discovery/blob/main/LICENSE).
 
 Enjoy :metal:
