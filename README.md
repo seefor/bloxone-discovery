@@ -22,6 +22,9 @@ Needs python3.6+ and NMAP install
 > git clone https://github.com/seefor/bloxone-discovery.git  
 > cd bloxone-discovery  
 > python3 scan2ddi.py  
+>> NMAP install   
+>>> MAC OS - brew install nmap  
+>>> Ubuntu - sudo apt-get install nmap 
 
 ### Before running the script
 You will need to edit the `csp.ini` file to add your API key and IP Space
