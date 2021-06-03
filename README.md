@@ -21,7 +21,7 @@ Needs python3.6+ and NMAP install
 > pip3 install nmap  
 > git clone https://github.com/seefor/bloxone-discovery.git  
 > cd bloxone-discovery  
-> python3 scan2ddi.py  
+> python3 scan2b1ddi.py  
 >> NMAP install   
 >>> MAC OS - brew install nmap  
 >>> Ubuntu - sudo apt-get install nmap 
@@ -41,7 +41,7 @@ After we save the `csp.ini` file we need to edit the `networks.txt` file, it's b
 > 10.10.1.0/24  
 
 ### Running the Script
->sudo python3 scan2ddi.py  
+>sudo python3 scan2b1ddi.py  
 >[+] sbaksh-ip-space id is ipam/ip_space/93c26245-b0e2-11ea-a9fa-f68df6f70235  
 >[+] Created - Subnet 192.168.0.0/24 in ipam/ip_space/93c26245-b0e2-11ea-a9fa-f68df6f70235  
 >[+] Created - 192.168.0.1 in sbaksh-ip-space  
